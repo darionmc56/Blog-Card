@@ -18,6 +18,7 @@ body {
   height: 522px;
   border-radius: 20px;
   border: 1px solid black;
+  box-shadow: 10px 10px;
 }
 
 .blog-card {
@@ -55,6 +56,15 @@ body {
 
 .content p {
   font-size: 1rem;
+}
+
+.content h2 {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.content h2:hover {
+  color: hsl(47, 88%, 63%);
+  cursor: pointer;
 }
 
 .content img {
