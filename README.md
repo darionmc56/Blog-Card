@@ -1,7 +1,7 @@
 # Blog Card
 
 A simple blog preview card built using **HTML** and **CSS**.  
-This project helped me practice layout techniques, semantic HTML, and styling components like buttons, text, and images.
+This project helped me practice layout techniques, semantic HTML, styling components, and adding interactive hover effects.
 
 ## 🌐 Live Demo
 
@@ -19,6 +19,7 @@ This project helped me practice layout techniques, semantic HTML, and styling co
 - Clean, modern blog card layout
 - Responsive and accessible styling
 - Custom-styled button and border elements
+- Custom hover effect on the card for interactivity
 
 ## 💡 What I Learned
 
